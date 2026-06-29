@@ -1,6 +1,6 @@
 # 👩‍💻 Letícia Mariano
 
-
+![Banner](./banner.PNG)
 
 ## 🚀 Técnica de Ensino | Desenvolvimento de Sistemas | Web & Educação em Tecnologia
 
