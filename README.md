@@ -23,7 +23,7 @@ Unindo <strong>código e sala de aula</strong> para transformar futuros no SENAI
 
 ## 🙋‍♀️ Sobre mim
 
-Sou **Técnica de Ensino no SENAI Chapecó (SC)** com experiência sólida na interseção entre **educação tecnológica e desenvolvimento web**. Acredito que ensinar e programar são atos complementares: ambos exigem clareza, criatividade e compromisso com o outro. Unindo <strong>código e sala de aula</strong> para transformar futuros no SENAI Chapecó (SC)
+Sou **Técnica de Ensino no SENAI Chapecó (SC)** com experiência sólida na interseção entre **educação tecnológica e desenvolvimento web**. Acredito que ensinar e programar são atos complementares: ambos exigem clareza, criatividade e compromisso com o outro.
 
 Atuo nos cursos de:
 
