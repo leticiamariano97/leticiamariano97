@@ -137,7 +137,7 @@ const leticiaMariano = {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiamariano97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=00F5D4&text_color=E6EDF3)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamariano97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=E6EDF3)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamariano97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=E6EDF3)-->
 
 </div>
 
