@@ -105,7 +105,8 @@ Projeto: **Mulheres e Meninas na Ciência e Tecnologia**
 ## 📫 Contato
 
 - 💼 LinkedIn:www.linkedin.com/in/leticiamariano
-- 📧 Email:letiiciamariano97@gmail.com    
+- 📧 Email:letiiciamariano97@gmail.com
+- 🌐 Meu GitHub: https://github.com/leticiamariano97 
 
 ---
 
